@@ -35,7 +35,7 @@ void clock() {
     }
 }
 ```
-完整代码实现见GitHub：[]()
+完整代码实现见GitHub：[code](https://github.com/zhang0peter/GSM-a5-1/blob/master/orginal.c)
 ## 安全性
 人们早在2000年就已经知道A5/1加密算法中存在严重的安全问题了。    
 在2008年，A5/1加密算法可以在几小时内被破解。     
